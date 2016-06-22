@@ -81,6 +81,12 @@ Download using git clone:
 
     $ git clone git://github.com/phonegap/ios-sim.git
 
+### Homebrew (mac)
+
+Install using homebrew:
+
+    $ brew install ios-sim
+
 Troubleshooting
 ---------------
 
